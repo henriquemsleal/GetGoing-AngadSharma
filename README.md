@@ -1,2 +1,6 @@
-# GetGoing-AngadSharma
- Arquivos aulas GetGoing Curso Angad Sharma em Udemy
+# GetGoing Angad Sharma Udemy
+ 
+ Introduction to Golang
+
+ Arquivos das aulas do Curso GetGoing de Angad Sharma em Udemy
+
